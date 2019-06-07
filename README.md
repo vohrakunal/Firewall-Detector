@@ -17,5 +17,5 @@ Enter Url and get or post data and you are done
 
  
 ## Creator
-* **Kunal Vohra** -*Owner and Developer*- [kv](https://github.com/kunalvohra94)
-> For any suggestions or improvements or other queries write to me [kv](mailto:kunalvohra1994@gmail.com) Email
+* **Kunal Vohra** -*Owner and Developer*- [kv](https://github.com/vohrakunal)
+> For any suggestions or improvements or other queries write to me [kv](mailto:me@kunalvohra.in) Email
